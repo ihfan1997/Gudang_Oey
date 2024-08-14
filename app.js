@@ -178,7 +178,7 @@ const checkout = () => {
   });
 
   fetch(
-    "https://script.google.com/macros/s/AKfycbzUOssaefpXDtw7u3vZchjVAwnBqAyw3_KqDvAsqnRBbvmzxX_j501Bg43CrhcBs_k_/exec",
+    "https://script.google.com/macros/s/AKfycbztlQdHboo9fAVHa7QQFwhDLKJ4DqucTNXoHuN92zJGncHbZnmtVjjE-kaZsDt9CVyT/exec",
     {
       method: "POST",
       headers: {
