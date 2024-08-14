@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Singkong @6 Slice",
+    "price": 10000,
+    "image": "image/1.png"
+  },
+  {
+    "id": 2,
+    "name": "Pisang @8 Slice",
+    "price": 10000,
+    "image": "image/2.png"
+  },
+  {
+    "id": 3,
+    "name": "Espresso EQ Bean",
+    "price": 210000,
+    "image": "image/3.png"
+  },
+  {
+    "id": 4,
+    "name": "Robusta Kasar Sinjo @500Gr",
+    "price": 193000,
+    "image": "image/4.png"
+  },
+  {
+    "id": 5,
+    "name": "Arabika Robusta @500 gr",
+    "price": 216000,
+    "image": "image/5.png"
+  },
+  {
+    "id": 6,
+    "name": "Lumpia Sayur",
+    "price": 4000,
+    "image": "image/6.png"
+  },
+  {
+    "id": 7,
+    "name": "Lumpia Udang",
+    "price": 4000,
+    "image": "image/7.png"
+  },
+  {
+    "id": 8,
+    "name": "Kroket Belanda",
+    "price": 5000,
+    "image": "image/8.png"
+  }
+]
